@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  CalculatorApp
 //
-//  Created by Tuan SPK on 5/3/18.
-//  Copyright © 2018 Tuan SPK. All rights reserved.
+//  Created by LongHoang on 5/3/18.
+//  Copyright © 2018 LongHoang. All rights reserved.
 //
 
 import UIKit
